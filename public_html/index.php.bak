@@ -11,10 +11,19 @@
         <link rel="stylesheet" type="text/css" href="https://tilde.team/css/hacker.css">
     </head>
     <body>
-	<div align="center">
-	<h1>UNDER CONSTRUCTION</h1>
-	<a href="https://github.com/raidontpaizer">Check out my Github for progress if ya care ;D</a>
-   	</div> 
-   </body>
+        <div class="container">
+            <div class="page-header">
+                <div class="pull-right">
+                    <p><a href="https://tilde.team/">&lt;- back to tilde.team</a></p>
+                </div>
+                <h1><strong>~<?=$user?></strong></h1>
+            </div>
+
+
+            <h1>AAAAAAAAAAAAAAAAAAAAAAAAAAAA</h1>
+
+	    <p>Check out your new <a href="blog">blog</a>!</p>
+        </div>
+    </body>
 </html>
 

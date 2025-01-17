@@ -6,3 +6,4 @@ for post in $(ls -t /home/$user/public_gemini/blog/*.md); do
 post=$(basename $post)
 printf "=> /~$user/blog/$post $post\r\n"
 done
+

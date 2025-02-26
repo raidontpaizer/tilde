@@ -56,7 +56,9 @@ margin-right: auto;
     </h6>
         
     <h4>
-        <i class="fa-solid fa-rss"></i><a href="/~raidopaizer/blog">Check out my blog :D</a>
+	<i class="fa-solid fa-rss"></i><a href="/~raidopaizer/blog">Check out my blog :D</a>
+<br>
+	<i class="fa-solid fa-globe"></i><a href="https://nandraid.neocities.org/">Pretty empty neocities page, kinda just waiting for somthing else...</a>
     </h4>
     
     <h5>Here's some of my social links, ones I choose to share:</h5>
@@ -74,7 +76,7 @@ margin-right: auto;
     </h5>    
     
     <h5>    
-        <i class="fa-brands fa-steam"></i><a href="https://steamcommunity.com/id/raid2004lol">Second Steam</a>
+        <i class="fa-brands fa-steam"></i><a href="https://steamcommunity.com/id/opencubic">Second Steam</a>
     </h5>
 </div>
 

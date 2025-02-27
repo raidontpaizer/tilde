@@ -16,6 +16,8 @@ width: 60%;
 border: solid white 3px;
 margin-left: auto;
 margin-right: auto;
+margin-top: 2%;
+margin-bottom: 2%;
 }
 .titlebox {
     padding-top: 2px;
@@ -43,7 +45,7 @@ margin-right: auto;
 </div>
 
 <div class="userimgar">
-    <img src="nano.jpg" width="80%">
+    <img src="bocchi.jpg" width="80%">
     </div>
   <div class="userar">  
     <h3>Haii Haii!! I'm raid!(any pronouns fine) </h3>
@@ -58,8 +60,7 @@ margin-right: auto;
     <h4>
 	<i class="fa-solid fa-rss"></i><a href="/~raidopaizer/blog">Check out my blog :D</a>
 <br>
-	<i class="fa-solid fa-globe"></i><a href="https://nandraid.neocities.org/">Pretty empty neocities page, kinda just waiting for somthing else...</a>
-    </h4>
+	<i class="fa-solid fa-globe"></i><a href="https://raidopaizer.fun">Raspberry pi webserver(Tunnel error means pi is off)</a>
     
     <h5>Here's some of my social links, ones I choose to share:</h5>
     <h5>

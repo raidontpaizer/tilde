@@ -60,7 +60,7 @@ margin-bottom: 2%;
     <h4>
 	<i class="fa-solid fa-rss"></i><a href="/~raidopaizer/blog">Check out my blog :D</a>
 <br>
-	<i class="fa-solid fa-globe"></i><a href="https://raidopaizer.fun">Raspberry pi webserver(Tunnel error means pi is off)</a>
+	<i class="fa-solid fa-globe"></i><a href="https://nandraid.moe">Raspberry pi webserver(Tunnel error means pi is off)</a>
     
     <h5>Here's some of my social links, ones I choose to share:</h5>
     <h5>

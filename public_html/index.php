@@ -45,7 +45,7 @@ margin-bottom: 2%;
 </div>
 
 <div class="userimgar">
-    <img src="bocchi.jpg" width="80%">
+    <img src="mihari.jpg" width="80%">
     </div>
   <div class="userar">  
     <h3>Haii Haii!! I'm raid!(any pronouns fine) </h3>

@@ -34,6 +34,28 @@ margin-bottom: 2%;
     margin-right: auto;
     margin-left: 5%;
 }
+@media screen and (max-width:767px) {
+	.container{
+	width: 95%;
+	border: white solid 2px;
+	}
+	h1 {
+	font-size: 1.8em;
+}
+h2 {
+	font-size: 1.4em;	
+}
+
+h3 {
+		font-size: 1.2em;
+	}
+
+
+
+h4 {
+	font-size: 1.25em;
+}
+}
 </style> 
 </head>
 <body>
